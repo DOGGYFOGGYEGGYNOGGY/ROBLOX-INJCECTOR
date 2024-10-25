@@ -1,3 +1,5 @@
+# Check out the new and improved version 2 of this exploit: https://github.com/DOGGYFOGGYEGGYNOGGY/ROBLOX-INJECTOR-2
+
 # ROBLOX-INJECTOR
 This is a roblox script injector, it includes:
 * A libary of preset scripts to inject
